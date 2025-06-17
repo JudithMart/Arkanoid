@@ -1,0 +1,11 @@
+*.shader linguist-language=Ignore
+*.mat linguist-language=Ignore
+*.meta linguist-language=Ignore
+*.prefab linguist-language=Ignore
+*.unity linguist-language=Ignore
+
+Library/** linguist-vendored
+Temp/** linguist-vendored
+Obj/** linguist-vendored
+
+*.cs linguist-language=C#
