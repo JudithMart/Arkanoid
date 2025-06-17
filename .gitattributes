@@ -1,4 +1,6 @@
 *.shader linguist-language=Ignore
+*.hlsl linguist-language=Ignore
+*.cginc linguist-language=Ignore
 *.mat linguist-language=Ignore
 *.meta linguist-language=Ignore
 *.prefab linguist-language=Ignore
